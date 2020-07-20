@@ -1,0 +1,2 @@
+# hope
+Reset hard drive
